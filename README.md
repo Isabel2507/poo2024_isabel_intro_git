@@ -6,3 +6,18 @@
 6- Utilizei o comando git branch -m main para mudar o nome da branch atual de master para main.
 7- Utilizei o comando git config --list para confirmar as configurações feitas.
 8- Utilizei o comando git status para saber o estado do arquivo atual.
+9- Utilizei o comando git add calculadora.py README.md para fazer os arquivos fazerem parte do sistema de controle de versão.
+10- Utilizei o comando git status -s para consultar o estado dos arquivos novamente de uma forma mais enxuta. Isso mostrou que o arquivo está "Staged", ou seja, pronto para um commit.
+11- Utilizei o comando git commit para tornar a versão permanente.
+12- Utilizei o comando git log --pretty=oneline para ver a minha lista de commits em uma única linha.
+13- Utilizei o comando git status -s para consultar o estado dos arquivos novamente de uma forma mais enxuta. Cada arquivo tem um estado diferente.
+14- Utilizei o comando git add teste_calculadora.py para transportar o arquivo para o estado staged.
+15- Utilizei o comando git status -s para consultar o estado dos arquivos novamente de uma forma mais enxuta.
+16- Utilizei o comando git commit para tornar a versão de teste_calculadora.py permanente.
+17- Utilizei o comando git diff para verificar os conteúdos modificados nos arquivos.
+18- Utilizei o comando git tag -a v1.0.0 -m "operação de somar implementada e testada" para aplicar uma tag anotada ao commit atual.
+19- Utilizei o comando git tag --list para visualizar a tag criada.
+20- Utilizei o comando git show v1.0.0 para visualizar detalhadamente a tag criada.
+21- Utilizei o comando git status -s para consultar o estado dos arquivos novamente de uma forma mais enxuta.
+22- Utilizei o comando git commit -a para tornar as versões atuais dos arquivos permanentes.
+
