@@ -38,3 +38,5 @@
 38- Utilizei o comando git show v1.0.2 para visualizar detalhadamente a tag criada.
 39- Utilizei o comando git status -s para consultar o estado dos arquivos novamente de uma forma mais enxuta.
 40- Utilizei o comando git commit -a para tornar as versões atuais dos arquivos permanentes.
+41- Utilizei o comando git commit -a -m "apostila02(git-python): teste da funcao dividir" para tornar a versão permanente.
+42- Utilizei o comando git tag -a v1.0.3 -m "operação de dividir implementada e testada" para aplicar uma tag anotada ao commit atual.
