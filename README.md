@@ -20,4 +20,21 @@
 20- Utilizei o comando git show v1.0.0 para visualizar detalhadamente a tag criada.
 21- Utilizei o comando git status -s para consultar o estado dos arquivos novamente de uma forma mais enxuta.
 22- Utilizei o comando git commit -a para tornar as versões atuais dos arquivos permanentes.
-
+23- Utilizei o comando git add teste_calculadora.py para transportar o arquivo para o estado staged.
+24- Utilizei o comando git commit -m "apostila02(git-python): teste da funcao subtrair" para tornar a versão permanente.
+25- Utilizei o comando git tag -a v1.0.1 -m "operação de subtrair implementada e testada" para aplicar uma tag anotada ao commit atual.
+26- Utilizei o comando git tag para visualizar as tags criadas.
+27- Utilizei o comando git show v1.0.0 para visualizar detalhadamente a tag criada.
+28- Utilizei o comando git show v1.0.1 para visualizar detalhadamente a tag criada.
+29- Utilizei o comando git add calculadora.py para transportar o arquivo para o estado staged.
+30- Utilizei o comando git commit -m "apostila02(git-python): funcao multiplicar implementada" para tornar a versão permanente.
+31- Utilizei o comando git add teste_calculadora.py para transportar o arquivo para o estado staged.
+32- Utilizei o comando git commit -m "apostila02(git-python): teste da funcao multiplicar" para tornar a versão permanente.
+33- Utilizei o comando git tag -a v1.0.2 -m "operação de multiplicar implementada e testada" para aplicar uma tag anotada ao commit atual.
+34-  Utilizei o comando git log --pretty=oneline para ver a minha lista de commits em uma única linha.
+35- Utilizei o comando git tag para visualizar as tags criadas.
+36- Utilizei o comando git show v1.0.0 para visualizar detalhadamente a tag criada.
+37- Utilizei o comando git show v1.0.1 para visualizar detalhadamente a tag criada.
+38- Utilizei o comando git show v1.0.2 para visualizar detalhadamente a tag criada.
+39- Utilizei o comando git status -s para consultar o estado dos arquivos novamente de uma forma mais enxuta.
+40- Utilizei o comando git commit -a para tornar as versões atuais dos arquivos permanentes.
