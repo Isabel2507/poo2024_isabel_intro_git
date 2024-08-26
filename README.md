@@ -40,3 +40,7 @@
 40- Utilizei o comando git commit -a para tornar as versões atuais dos arquivos permanentes.
 41- Utilizei o comando git commit -a -m "apostila02(git-python): teste da funcao dividir" para tornar a versão permanente.
 42- Utilizei o comando git tag -a v1.0.3 -m "operação de dividir implementada e testada" para aplicar uma tag anotada ao commit atual.
+43- Utilizei o comando git remote add origin para adicionar um destino ao repositório.
+44- Utilizei o comando git remote para saber o nome do remote.
+45- Utilizei o comando git push origin main para fazer o push.
+46- Utilizei o comando git push origin --tags para enviar todas as tags.
